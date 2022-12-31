@@ -31,3 +31,12 @@ button[title='Hooray!']{
   .toolTip:hover .tooltip-text {
     visibility: visible;
   }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+#page-link:hover {
+    background-color: white ;
+}
