@@ -32,10 +32,10 @@ button[title='Hooray!']{
     visibility: visible;
   }
 
-  a {
+a {
     text-decoration: none;
     color: white;
-  }
+}
 
 #page-link:hover {
     background-color: white ;
